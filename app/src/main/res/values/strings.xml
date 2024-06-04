@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string-array name="Spinner1">
+        <item>Sistem Informasi</item>
+        <item>Desain Komunikasi Visual</item>
+        <item>Teknik Informatika</item>
+        <item>Teknik Industri</item>
+        <item>Farmasi</item>
+    </string-array>
+</resources>
